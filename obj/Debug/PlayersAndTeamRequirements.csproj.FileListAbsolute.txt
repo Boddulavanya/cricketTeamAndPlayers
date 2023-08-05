@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\PlayersAndTeamRequirements\PlayersAndTeamRequirements\obj\Debug\PlayersAndTeamRequirements.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\PlayersAndTeamRequirements\PlayersAndTeamRequirements\obj\Debug\PlayersAndTeamRequirements.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\PlayersAndTeamRequirements\PlayersAndTeamRequirements\obj\Debug\PlayersAndTeamRequirements.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\PlayersAndTeamRequirements\PlayersAndTeamRequirements\bin\Debug\PlayersAndTeamRequirements.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\PlayersAndTeamRequirements\PlayersAndTeamRequirements\bin\Debug\PlayersAndTeamRequirements.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\PlayersAndTeamRequirements\PlayersAndTeamRequirements\bin\Debug\PlayersAndTeamRequirements.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\PlayersAndTeamRequirements\PlayersAndTeamRequirements\obj\Debug\PlayersAndTeamRequirements.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\PlayersAndTeamRequirements\PlayersAndTeamRequirements\obj\Debug\PlayersAndTeamRequirements.pdb
